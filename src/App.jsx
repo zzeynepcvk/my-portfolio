@@ -132,7 +132,7 @@ const Portfolio = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-pink-400 to-rose-400 rounded-full animate-spin-slow"></div>
               <div className="absolute inset-2 bg-gradient-to-r from-rose-300 to-pink-300 rounded-full animate-pulse"></div>
               <div className="absolute inset-4 bg-white rounded-full flex items-center justify-center shadow-2xl group-hover:scale-105 transition-transform duration-500">
-                <img src="/public/profile.jpeg" className=' rounded-full'/>
+                <img src="/profile.jpeg" className=' rounded-full'/>
                 <div className="absolute inset-0 rounded-full bg-gradient-to-t from-pink-100/50 to-transparent"></div>
               </div>
 
@@ -285,7 +285,7 @@ const Portfolio = () => {
             <div className="relative w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 mx-auto mb-6 sm:mb-8 group">
               <div className="absolute inset-0 bg-gradient-to-r from-pink-400 to-rose-400 rounded-full animate-pulse"></div>
               <div className="absolute inset-2 bg-white rounded-full flex items-center justify-center shadow-xl group-hover:scale-105 transition-transform duration-500">
-                <img src="/public/profile-s.jpg" className=' rounded-full '/>
+                <img src="/profile-s.jpg" className=' rounded-full '/>
               </div>
 
             </div>
@@ -351,7 +351,7 @@ const Portfolio = () => {
             <div className="relative order-1 lg:order-2">
               <div className="bg-gradient-to-r from-pink-200 to-rose-200 rounded-3xl p-6 sm:p-8 transform rotate-3 hover:rotate-0 transition-transform duration-500">
                 <div className="bg-white rounded-2xl p-6 sm:p-8 transform -rotate-3">
-                  <img src="/public/profile.jpeg" alt="zeynep3" />
+                  <img src="/profile.jpeg" alt="zeynep3" />
                   
                 </div>
               </div>
