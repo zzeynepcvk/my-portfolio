@@ -307,7 +307,7 @@ const Portfolio = () => {
               View My Work
             </button>
             </a>
-            <a href="/public/ZeynepÇevikResume.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/ZeynepÇevikResume.pdf" target="_blank" rel="noopener noreferrer">
             <button className="w-full sm:w-auto border-2 border-pink-300 text-pink-600 px-6 sm:px-8 py-3 rounded-full hover:bg-pink-50 hover:scale-105 transition-all duration-300">
               Download CV
             </button>
