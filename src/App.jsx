@@ -444,6 +444,8 @@ const Portfolio = () => {
     </button>
 
     
+        </div>
+      </section>
 
       {/* Footer */}
       <footer className="py-6 sm:py-8 border-t border-pink-100">
