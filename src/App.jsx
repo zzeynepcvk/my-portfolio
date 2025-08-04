@@ -443,9 +443,7 @@ const Portfolio = () => {
       Say Hello! 👋
     </button>
 
-    <p className="mt-4 text-gray-700 text-center">{count}</p>
-        </div>
-      </section>
+    
 
       {/* Footer */}
       <footer className="py-6 sm:py-8 border-t border-pink-100">
